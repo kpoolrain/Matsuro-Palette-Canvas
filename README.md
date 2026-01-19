@@ -13,7 +13,9 @@
 具有全流程（几乎）
 
 ~~目前只能在obsidian上呈现，后续会添加静态html的形式。~~
+
 现已有竖mode的html。
+
 并且可以访问网页：https://kpoolrain.github.io/Matsuro-Palette-Canvas/
 
 
